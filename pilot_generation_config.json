@@ -1,0 +1,27 @@
+{
+  "model_id": "gpt-5.6-sol",
+  "model_provider": "openai",
+  "prompt_version": "PILOT_V1",
+  "prompt_template": "You are the clinician conducting a simulated medical history-taking interview.\n\nBased only on the conversation so far, produce the single next clinician turn that you would naturally say at this point.\n\nContinue the history-taking process. Do not provide a diagnosis, treatment recommendation, summary, explanation, or multiple alternative responses.\n\nOutput only the next clinician utterance.\n\nDo not mention that you are an AI.\n\nCONVERSATION:\n\n{context}",
+  "instructions": "You are the clinician conducting a simulated medical history-taking interview.\n\nBased only on the conversation so far, produce the single next clinician turn that you would naturally say at this point.\n\nContinue the history-taking process. Do not provide a diagnosis, treatment recommendation, summary, explanation, or multiple alternative responses.\n\nOutput only the next clinician utterance.\n\nDo not mention that you are an AI.",
+  "generation_settings": {
+    "temperature": 0.0,
+    "reasoning_effort": "none",
+    "max_output_tokens": 150,
+    "tools": null,
+    "web_search": false,
+    "text_output_only": true
+  },
+  "random_seed": 42,
+  "pilot_size": 100,
+  "position_targets": {
+    "early": 34,
+    "middle": 33,
+    "late": 33
+  },
+  "input_filename": "final_1500_FROZEN.csv",
+  "pilot_id_filename": "pilot_100_context_ids.csv",
+  "output_csv": "pilot_gpt56sol_100.csv",
+  "raw_jsonl": "pilot_gpt56sol_raw.jsonl",
+  "run_date_utc": "2026-08-11"
+}

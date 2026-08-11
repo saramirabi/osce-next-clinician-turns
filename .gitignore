@@ -1,0 +1,11 @@
+.venv/
+__pycache__/
+*.pyc
+.DS_Store
+.env
+.env.*
+*.pem
+*.key
+
+# Source audio not required for dataset/generation outputs
+doctor-patient-consultation-dialogues/Data/Audio Recordings/

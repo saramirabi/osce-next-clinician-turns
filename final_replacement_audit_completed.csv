@@ -1,0 +1,25 @@
+original_context_id,removed_target_turn_id,manual_exclusion_reason,replacement_target_turn_id,dialogue_id,position_category
+CTX_0114,MSK0009_turn_0107,Substantive purpose is examination/procedure (Homan test during dorsiflexion).,MSK0009_turn_0089,MSK0009,late
+CTX_0154,MSK0016_turn_0121,Substantive purpose is examination finding plus closing/any-questions (Phalen's test).,MSK0016_turn_0095,MSK0016,late
+CTX_0160,MSK0017_turn_0109,Substantive purpose is examination/procedure (active knee movement testing).,MSK0017_turn_0089,MSK0017,late
+CTX_0176,MSK0020_turn_0115,Substantive purpose is examination summary and closing/any-questions.,MSK0020_turn_0095,MSK0020,late
+CTX_0224,MSK0029_turn_0105,Substantive purpose is examination/procedure (palpation/temperature check).,MSK0029_turn_0119,MSK0029,late
+CTX_0275,MSK0039_turn_0085,Substantive purpose is closing and transition to physical examination.,MSK0039_turn_0093,MSK0039,late
+CTX_0285,MSK0041_turn_0105,Substantive purpose is examination findings and range-of-motion testing.,MSK0041_turn_0097,MSK0041,late
+CTX_0314,MSK0046_turn_0083,"Substantive purpose is treatment/management (splint, physiotherapy, injection plan).",MSK0046_turn_0077,MSK0046,late
+CTX_0315,MSK0046_turn_0067,Substantive purpose is examination/procedure (Finkelstein test).,MSK0046_turn_0061,MSK0046,late
+CTX_0326,MSK0050_turn_0099,Substantive purpose is examination/procedure (Tinel's test).,MSK0050_turn_0075,MSK0050,late
+CTX_0394,RES0012_turn_0129,Substantive purpose is diagnosis/explanation rather than history elicitation.,RES0012_turn_0091,RES0012,late
+CTX_0438,RES0021_turn_0007,Substantive purpose is examination/procedure (in-visit temperature measurement).,RES0021_turn_0033,RES0021,early
+CTX_0538,RES0038_turn_0111,Substantive purpose is diagnosis/explanation and treatment/investigation planning.,RES0038_turn_0107,RES0038,late
+CTX_0724,RES0074_turn_0095,Substantive purpose is treatment/management and investigation planning.,RES0074_turn_0081,RES0074,late
+CTX_0827,RES0093_turn_0067,Substantive purpose is conversational transition/advice without history elicitation.,RES0093_turn_0083,RES0093,late
+CTX_0856,RES0098_turn_0077,Substantive purpose is closing and transition to physical examination.,RES0098_turn_0067,RES0098,late
+CTX_0896,RES0105_turn_0095,Substantive purpose is treatment/management (bronchodilator/steroid offer).,RES0105_turn_0071,RES0105,late
+CTX_1033,RES0131_turn_0093,Substantive purpose is closing/any-questions rather than history elicitation.,RES0131_turn_0069,RES0131,late
+CTX_1085,RES0140_turn_0051,"Substantive purpose is treatment/management (monitoring, discharge, physiotherapy).",RES0140_turn_0039,RES0140,late
+CTX_1096,RES0142_turn_0053,Substantive purpose is treatment/management (symptomatic care advice).,RES0142_turn_0037,RES0142,late
+CTX_1109,RES0145_turn_0017,Substantive purpose is conversational summary without history elicitation.,RES0145_turn_0013,RES0145,early
+CTX_1368,RES0193_turn_0083,Substantive purpose is investigation planning and treatment/management discussion.,RES0193_turn_0069,RES0193,late
+CTX_1466,RES0211_turn_0117,Substantive purpose is visit summary/closing rather than history elicitation.,RES0211_turn_0095,RES0211,late
+CTX_1494,RES0216_turn_0067,Substantive purpose is conversational summary without history elicitation.,RES0216_turn_0059,RES0216,late
